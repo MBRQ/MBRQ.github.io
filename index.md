@@ -9,5 +9,7 @@ Die Serie handelt von einem Mädchen namens Lain Iwakura, das im Laufe der Serie
 * jung
 * leise
 
-Lain Iwakura:
->  "If you’re not remembered, then you never existed."
+As Grace Hopper said:
+
+> I’ve always been more interested
+> in the future than in the past.
