@@ -8,3 +8,6 @@ Die Serie handelt von einem Mädchen namens Lain Iwakura, das im Laufe der Serie
 * klein
 * jung
 * leise
+
+Lain Iwakura:
+>  "If you’re not remembered, then you never existed."
