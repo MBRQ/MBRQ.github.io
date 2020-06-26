@@ -13,3 +13,5 @@ As Grace Hopper said:
 
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Serial_experiments_lain_logo.svg/1200px-Serial_experiments_lain_logo.svg.png" />
